@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tinder-clone-pwa/static/css/main.647ea09b.chunk.css",
+    "main.js": "/Tinder-clone-pwa/static/js/main.1f4c028a.chunk.js",
+    "main.js.map": "/Tinder-clone-pwa/static/js/main.1f4c028a.chunk.js.map",
+    "runtime-main.js": "/Tinder-clone-pwa/static/js/runtime-main.875dea11.js",
+    "runtime-main.js.map": "/Tinder-clone-pwa/static/js/runtime-main.875dea11.js.map",
+    "static/js/2.a6d385a4.chunk.js": "/Tinder-clone-pwa/static/js/2.a6d385a4.chunk.js",
+    "static/js/2.a6d385a4.chunk.js.map": "/Tinder-clone-pwa/static/js/2.a6d385a4.chunk.js.map",
+    "index.html": "/Tinder-clone-pwa/index.html",
+    "precache-manifest.a3ca2e5310e24c5a13b3d77f8be0f27d.js": "/Tinder-clone-pwa/precache-manifest.a3ca2e5310e24c5a13b3d77f8be0f27d.js",
+    "service-worker.js": "/Tinder-clone-pwa/service-worker.js",
+    "static/css/main.647ea09b.chunk.css.map": "/Tinder-clone-pwa/static/css/main.647ea09b.chunk.css.map",
+    "static/js/2.a6d385a4.chunk.js.LICENSE.txt": "/Tinder-clone-pwa/static/js/2.a6d385a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.875dea11.js",
+    "static/js/2.a6d385a4.chunk.js",
+    "static/css/main.647ea09b.chunk.css",
+    "static/js/main.1f4c028a.chunk.js"
+  ]
+}
